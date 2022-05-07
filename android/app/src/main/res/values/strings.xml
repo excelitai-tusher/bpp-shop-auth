@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<resources>-->
+<!--    <string name="facebook_app_id">1618714761840782</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb1618714761840782</string>-->
+<!--    <string name="facebook_client_token">80479abd068baaaf9a4b5f6bae60b0c8</string>-->
+<!--    <string name="app_name">flutter login</string>-->
+<!--</resources>-->
+<resources>
+<string name="app_name">flutter login</string>
+<string name="facebook_app_id">1618714761840782</string>
+<string name="fb_login_protocol_scheme">fb1618714761840782</string>
+<string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
+</resources>
